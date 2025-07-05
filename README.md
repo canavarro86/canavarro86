@@ -1,32 +1,100 @@
-🚀 Canavarro86 - Digital Architect & Code Craftsman
+Вот профессиональный технический перевод главной страницы GitHub-профиля на английский язык:
 
-"Code is poetry written in logic"
+---
 
-🌟 About Me
-Passionate developer with a knack for turning complex problems into elegant solutions. Currently diving deep into the realms of network security and automation, where Python meets real-world challenges.
-🛠️ Tech Arsenal
+# 👋 Hello! I'm Artem, a Middle-Level Software Engineer
 
-🐍 Python Virtuoso - Crafting bots and automation tools that work like magic
-🔒 Security Enthusiast - Building robust VPN solutions and secure communications
-🤖 Bot Development - Creating intelligent Telegram bots that bridge users and technology
-🌐 Network Engineering - OpenVPN configurations and server management
+🛠 **My Tech Stack**: Java (Spring Boot), PHP (Laravel/vanilla), JavaScript, HTML/CSS, DevOps (Docker, CI/CD), Security, Telegram Bots
 
-🔥 Current Adventures
+---
 
-🔐 OpenVPN Server & TG-Bot - Merging network security with seamless user experience
-🎯 Exploring the intersection of cybersecurity and automation
-📡 Building communication bridges in the digital world
+## 📌 Featured Projects
 
-💡 Philosophy
-"In a world of infinite possibilities, I choose to build solutions that matter"
-🎯 What Drives Me
+| Project                                                          | Description                                                                                                            |
+| ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| 🔒 [`hide-vpn-bot`](https://github.com/username/hide-vpn-bot)    | Automated VPN server management with Telegram Bot integration: OpenVPN provisioning, user database, security hardening |
+| 📝 [`php-todo-api`](https://github.com/username/php-todo-api)    | A fully functional PHP REST API with JWT-based authentication and MySQL integration                                    |
+| ☕ [`java-auth-form`](https://github.com/username/java-auth-form) | Spring Boot application with user registration, login, and CSRF protection                                             |
 
-🚀 Innovation - Always pushing boundaries
-🔧 Problem Solving - Every bug is just a puzzle waiting to be solved
-🌍 Impact - Code that makes a difference
-📚 Continuous Learning - Yesterday's knowledge is today's foundation
+---
 
-🤝 Let's Connect
-Ready to collaborate on projects that challenge the status quo? Let's build something extraordinary together!
+## 📚 WeeklyTips/
 
-"The best code is not just functional, it's beautiful" ✨
+A growing library of concise technical insights published weekly:
+
+| File                       | Description                                  |
+| -------------------------- | -------------------------------------------- |
+| `js-debounce.md`           | How debounce works and when to use it        |
+| `php-strict-types.md`      | Introduction to strict typing in PHP         |
+| `spring-security-intro.md` | Basics of Spring Boot security configuration |
+| `docker-networking.md`     | Docker networking essentials                 |
+| `vpn-iptables.md`          | Securing VPN traffic using iptables rules    |
+
+---
+
+## 🚀 Skills and Expertise
+
+* REST API development (Java & PHP)
+* Secure authentication: JWT, CSRF, XSS protection
+* DevOps practices: Docker, CI/CD, Bash scripting
+* Telegram Bot API, OpenVPN setup and automation
+* HTML5, CSS3, responsive layouts, modern JavaScript
+* Server deployment and automation (Debian-based environments)
+
+---
+
+## 🔄 Automation & GitHub Actions
+
+* Weekly auto-updates of profile `README.md`
+  *(recent commits, repo list, GitHub stats)*
+* CI pipelines via `.github/workflows/ci.yml`
+* Automatic changelog generation and tagged releases
+* Shields.io badges for all repos (build status, last update, languages used)
+
+---
+
+## 📦 Example Project Structure
+
+```
+/php-todo-api
+ ├── README.md
+ ├── src/
+ ├── docker-compose.yml
+ ├── screenshots/
+ └── .github/workflows/ci.yml
+```
+
+**Each `README.md` includes:**
+
+* 🔍 Project overview
+* 🛠 Tech stack used
+* 🚀 Setup and deployment guide
+* 📸 Screenshots or demo
+* 🧩 Future improvements roadmap
+* 🔗 References and external links
+
+---
+
+## 🧩 Project Scalability Examples
+
+* `php-todo-api` → +MySQL → +JWT → +Vue frontend
+* `java-auth-form` → +CAPTCHA → +2FA → +email verification
+* `hide-vpn-bot` → +Web dashboard → +user roles → +traffic reports
+
+---
+
+## 📈 Community & Contributions
+
+* Enabled `Discussions` and `Issues` with structured templates
+* Issues labeled for contributors: `good first issue`, `help wanted`
+* Automatic changelog and release notes
+* Active collaboration encouraged via Pull Requests
+
+---
+
+## 📫 Contact
+
+* Email: [supprot@java-simple.ru](mailto:supprot@java-simple.ru)
+* Telegram: [@canavarro86](https://t.me/canavarro86)
+
+---
