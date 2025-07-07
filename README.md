@@ -15,7 +15,7 @@
 | 🔒 [`hide-vpn-bot`](https://github.com/canavarro86/hide-vpn-bot)                | Automated VPN server management with Telegram Bot integration: OpenVPN provisioning, user database, security hardening |
 | 📝 [`php-todo-api`](https://github.com/canavarro86/php-todo-api)                | A fully functional PHP REST API with JWT-based authentication and MySQL integration                                    |
 | ☕ [`java-auth-form`](https://github.com/canavarro86/java-auth-form)            | Spring Boot application with user registration, login, and CSRF protection                                             |
-|    [`chatops-telegram-bot`(https://github.com/canavarro86/chatops-telegram-bot) | ChatOps boot                                                                                                           |
+| 🤖💬[`chatops-telegram-bot`](https://github.com/canavarro86/chatops-telegram-bot)| ChatOps boot                                                                                                           |
 
 ---
 
